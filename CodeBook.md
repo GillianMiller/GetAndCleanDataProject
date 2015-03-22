@@ -5,8 +5,8 @@ smartphones.
 
 ### Original Data :
 
-- [source] https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
-- [description]http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+- source : https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+- description : http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
 ### Data Transformation Steps
@@ -41,8 +41,8 @@ The resultant tidy data set is the means of the variables for each activity and 
 
 #### Data Columns of Tidy Data Set
 
-1. **ActivityLabel**: Activity being performed
-2. **SubjectID**: ID indicating the subject from whom data was collected
+1. ActivityLabel: Activity being performed
+2. SubjectId: Id of the subject from whom data was collected
 3. tBodyAccMeanX
 4. tBodyAccMeanY
 5. tBodyAccMeanZ
